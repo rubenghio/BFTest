@@ -6,7 +6,7 @@ public class Matematica {
 	}
 	
 	public int resta(int a, int b) {
-		return a - b;
+		return a - b - 1;
 	}
 	
 	public int divide(int a, int b) throws ArithmeticException {
